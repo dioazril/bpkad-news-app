@@ -1,16 +1,20 @@
-# bpkad_news_app
+# BPKAD News App
 
-A new Flutter project.
+🔥 Build a realtime News App from scratch with Flutter 3 & Firebase.
 
-## Getting Started
+## Run it
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/PenCakeFuNnY/bpkad-news-app.git bpkad_news_app
+cd bpkad_news_app
 
-A few resources to get you started if this is your first Flutter project:
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Menu Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![menu](https://user-images.githubusercontent.com/63665371/208629022-d3ddf025-2761-4f45-ad86-cfaa53048921.jpeg)
+
+## Main Screen
+
+![main](https://user-images.githubusercontent.com/63665371/208629130-04a8a02e-83ec-4c02-9daf-56cffec0b9cc.jpeg)
