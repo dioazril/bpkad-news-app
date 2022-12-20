@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>306959471555-rbh5lhl1uhprb69tuinn1g00f2qedue1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.306959471555-rbh5lhl1uhprb69tuinn1g00f2qedue1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>306959471555-ljf8ihusc7247okv3qr4iigui8msgqam.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcN2sBiXWtmMxRhhpguc_I9gjT0EHGt5U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>306959471555</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bpkadNewsApp</string>
+	<key>PROJECT_ID</key>
+	<string>portal-berita-bpkad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>portal-berita-bpkad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:306959471555:ios:1e866f6a3d4940ac88e376</string>
+</dict>
+</plist>
